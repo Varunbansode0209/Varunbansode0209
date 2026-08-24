@@ -27,22 +27,21 @@ I'm a Computer Engineering student focused on building practical, production-gra
 
 ## 🤖 My AI & Application Architecture
 
-Here is how I typically structure my production AI applications:
+```text
 ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
 │  React Frontend │ <---> │  FastAPI / Node │ <---> │ MongoDB / Vector│
 └─────────────────┘       └─────────────────┘       └─────────────────┘
-│
-┌───────────────┐
-│ LangGraph /   │
-│ Agent Layer   │
-└───────────────┘
-│
-┌───────────────┐
-│ Deep Learning │
-│ PyTorch / Yolo│
-└───────────────┘
-
----
+                                   │
+                           ┌───────────────┐
+                           │ LangGraph /   │
+                           │ Agent Layer   │
+                           └───────────────┘
+                                   │
+                           ┌───────────────┐
+                           │ Deep Learning │
+                           │ PyTorch / Yolo│
+                           └───────────────┘
+```
 
 ## 🚀 Featured Projects
 
@@ -94,7 +93,7 @@ Here is how I typically structure my production AI applications:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varunbansode0209&show_icons=true&theme=dark" alt="Varun's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Varunbansode0209&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -102,7 +101,7 @@ Here is how I typically structure my production AI applications:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunbansode0209&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Varunbansode0209&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
