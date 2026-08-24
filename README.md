@@ -79,7 +79,7 @@ I enjoy building practical applications and exploring how AI can be integrated i
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varunbansode0209&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Varunbansode0209&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
