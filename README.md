@@ -63,17 +63,13 @@ Seeking opportunities to apply AI and software engineering skills to solve real-
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varunbansode0209&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varunbansode0209&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Varunbansode0209&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunbansode0209&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com/?user=Varunbansode0209&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunbansode0209&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
